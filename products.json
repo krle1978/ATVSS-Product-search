@@ -1,0 +1,8 @@
+[
+    {"name": "Laptop", "price": "800 EUR"},
+    {"name": "Telefon", "price": "400 EUR"},
+    {"name": "Monitor", "price": "200 EUR"},
+    {"name": "Tastatura", "price": "50 EUR"},
+    {"name": "Miš", "price": "20 EUR"},
+    {"name": "Punjač", "price": "15 EUR"}
+]

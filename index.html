@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pretraga proizvoda</title>
+<style>
+/* Stil za rezultate */
+.result-item {
+padding: 10px;
+border-bottom: 1px solid #ccc;
+}
+.result-item:last-child {
+border-bottom: none;
+}
+</style>
+</head>
+<body>
+<h2>Pretraži proizvode</h2>
+<input type="text" id="search" placeholder="Unesite ime proizvoda"
+onkeyup="searchProducts()">
+<div id="results"></div>
+<script src="script.js"></script>
+</body>
+</html>
